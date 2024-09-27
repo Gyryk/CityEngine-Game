@@ -1,0 +1,12 @@
+foobar:12650
+beatme:599999
+test:10000
+no guns:74322
+brute:89677
+afk:83694
+enemies:70677
+bomb:157932
+ryanair:164169
+girik:179271
+damn:186983
+video:84135

@@ -1,0 +1,36 @@
+{
+	"platforms": [
+		{"width": "5.0", "height": "1.0", "x": "-35.0", "y": "-15.0", "image": "data/turn-platform.png", "type": "turn"},
+		{"width": "5.0", "height": "1.0", "x": "-10.0", "y": "0.0", "image": "data/turn-platform.png", "type": "turn"},
+		{"width": "5.0", "height": "1.0", "x": "5.0", "y": "12.5", "image": "data/turn-platform.png", "type": "turn"},
+		{"width": "5.0", "height": "1.0", "x": "-25.0", "y": "20.0", "image": "data/vanish-platform.png", "type": "vanish"},
+		{"width": "1.8", "height": "1.0", "x": "10.0", "y": "-15.0", "image": "data/short-platform.png", "type": "static"},
+		{"width": "1.8", "height": "1.0", "x": "30.0", "y": "-10.0", "image": "data/short-platform.png", "type": "static"},
+		{"width": "10", "height": "1.0", "x": "25.0", "y": "15.0", "image": "data/wide-platform.png", "type": "static"},
+		{"width": "4.8", "height": "2.0", "x": "-25.0", "y": "-35.0", "image": "data/trampoline.png", "type": "bounce"},
+		{"width": "4.8", "height": "2.0", "x": "0.0", "y": "-35.0", "image": "data/trampoline.png", "type": "bounce"},
+		{"width": "4.8", "height": "2.0", "x": "25.0", "y": "-35.0", "image": "data/trampoline.png", "type": "bounce"}
+	],
+	"enemies": [
+		{"x": "-10.0", "y": "0.0", "type": "small"},
+		{"x": "-20.0", "y": "40.0", "type": "small"},
+		{"x": "-30.0", "y": "40.0", "type": "small"},
+		{"x": "10.0", "y": "0.0", "type": "small"},
+		{"x": "28", "y": "0.0", "type": "tank"},
+		{"x": "35.0", "y": "30.0", "type": "tank"},
+		{"x": "45.0", "y": "0.0", "type": "brute"},
+		{"x": "-45.0", "y": "0.0", "type": "brute"}
+	],
+	"collectibles": [
+		{"type": "HEALTH", "width": "1.0", "height": "1.0", "x": "30.0", "y": "-5.0", "value": "10"},
+		{"type": "HEALTH", "width": "1.0", "height": "1.0", "x": "-35.0", "y": "-10.0", "value": "10"},
+		{"type": "HEALTH", "width": "1.0", "height": "1.0", "x": "-10.0", "y": "5.0", "value": "10"}
+	],
+	"guns": [
+		{"x": "10.0", "y": "-10.0", "name": "pistol"},
+		{"x": "-25.0", "y": "-25.0", "name": "shotgun"},
+		{"x": "25.0", "y": "20.0", "name": "sniper"},
+		{"x": "5.0", "y": "20.0", "name": "knife"},
+		{"x": "-25.0", "y": "25.0", "name": "rifle"}
+	]
+}

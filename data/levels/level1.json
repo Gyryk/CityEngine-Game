@@ -1,0 +1,21 @@
+{
+	"platforms": [
+		{"width": "5.0", "height": "1.0", "x": "-30.0", "y": "-15.0", "image": "data/platform.png", "type": "static"},
+		{"width": "10.0", "height": "1.0", "x": "30.0", "y": "5.0", "image": "data/wide-platform.png", "type": "static"},
+		{"width": "1.8", "height": "1.0", "x": "0.0", "y": "-5.0", "image": "data/short-platform.png", "type": "static"},
+		{"width": "4.8", "height": "2.0", "x": "-15.0", "y": "-25.0", "image": "data/trampoline.png", "type": "bounce"},
+		{"width": "4.8", "height": "2.0", "x": "15.0", "y": "-25.0", "image": "data/trampoline.png", "type": "bounce"}
+	],
+	"enemies": [
+		{"x": "30.0", "y": "0.0", "type": "normal"},
+		{"x": "-2.5", "y": "10.0", "type": "normal"},
+		{"x": "-27.5", "y": "10.0", "type": "normal"},
+		{"x": "35.0", "y": "30.0", "type": "small"}
+	],
+	"collectibles": [
+		{"type": "HEALTH", "width": "1.0", "height": "1.0", "x": "0.0", "y": "0.0", "value": "10"}
+	],
+	"guns": [
+		{"x": "-30.0", "y": "-10.0", "name": "pistol"}
+	]
+}

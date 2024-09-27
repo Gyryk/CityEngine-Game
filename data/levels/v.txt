@@ -1,0 +1,4 @@
+Enemy Probabilities: 5, 10, 15, 20, 50, 
+Spawn Rate: 5
+Drop Rate: 85
+Targets: 0, 1, 3, 7, 15
