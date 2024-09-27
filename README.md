@@ -1,5 +1,7 @@
 # Trampoline Bounce Brawl
 
+## [Video](https://www.canva.com/design/DAGCrE-5W8k/fEt5bFSp6-7tkoCQ6nHi2g/watch?utm_content=DAGCrE-5W8k&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 A short game made by Girik for the Java coursework. You play as a ball bouncing around, using collectible weapons
 and power-ups to kill the enemies. <br><br>
 <b> STORY MODE: </b> Once the area is clear you can progress to the next level, with your new unlocks and upgrades. <br>
